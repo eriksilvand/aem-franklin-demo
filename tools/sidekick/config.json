@@ -1,4 +1,5 @@
 {
-    "project": "Franklin Demo",
-    "host": "erik.dev.br"
-  }
+  "project": "My Project",
+  "host": "www.erik.dev.br",
+  "plugins": []
+}
