@@ -1,6 +1,6 @@
 {
   "project": "My Project",
-  "host": "www.erik.dev.br",
+  "host": "erik.dev.br",
   "plugins": [
     {
       "id": "asset-library",
